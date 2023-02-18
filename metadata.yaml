@@ -1,0 +1,43 @@
+_repo: The-female-impersonators-b-A-sequel-to-the-autobiography-of-an-androgyne-and-an-account-of-so__70019
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Herzog, Alfred W. (Alfred Waldemar)
+    alias: Herzog, Alfred Waldemar
+    birthdate: 1866
+    deathdate: 1933
+    gutenberg_agent_id: '54412'
+    url: http://www.gutenberg.org/2009/agents/54412
+creator:
+  author:
+    agent_name: Werther, Ralph
+    aliases:
+    - June, Jennie
+    - Lind, Earl
+    birthdate: 1874
+    gutenberg_agent_id: '54335'
+    url: http://www.gutenberg.org/2009/agents/54335
+    wikipedia: https://en.wikipedia.org/wiki/Jennie_June_(autobiographer)
+description: ''
+gutenberg_issued: '2023-02-11'
+identifiers:
+  gutenberg: '70019'
+language: en
+pgterms:marc904: https://archive.org/details/femaleimpersonat00wert
+pgterms:marc905: 20190114213339werther
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Medico-Legal journal, $c1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The female-impersonators : $b A sequel to the autobiography of an androgyne
+  and an account of some of the author''s experiences during his six years'' career
+  as instinctive female-impersonator in new york''s underworld; together with the
+  life stories of androgyne associates and an outline of his subsequently acquired
+  knowledge of kindred phenomena of human character and psychology'
+url: http://www.gutenberg.org/ebooks/70019
