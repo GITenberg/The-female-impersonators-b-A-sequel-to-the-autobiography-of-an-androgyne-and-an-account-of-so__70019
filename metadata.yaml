@@ -8,6 +8,9 @@ contributor:
     deathdate: 1933
     gutenberg_agent_id: '54412'
     url: http://www.gutenberg.org/2009/agents/54412
+covers:
+- cover_type: archival
+  image_path: 70019-h/images/cover.jpg
 creator:
   author:
     agent_name: Werther, Ralph
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54335
     wikipedia: https://en.wikipedia.org/wiki/Jennie_June_(autobiographer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70019#The-female-impersonators-b-A-sequel-to-the-autobiography-of-an-androgyne-and-an-account-of-so_
 gutenberg_issued: '2023-02-11'
 identifiers:
   gutenberg: '70019'
